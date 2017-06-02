@@ -12,7 +12,11 @@ import org.eclipse.cdt.core.parser.IToken;
 import org.eclipse.cdt.core.parser.ParserMode;
 import org.eclipse.cdt.internal.core.dom.parser.BacktrackException;
 import org.eclipse.cdt.internal.core.dom.parser.c.GNUCSourceParser;
-
+/**
+ * This code is provided under GPLv2
+ * @author Anders Lynge Esbensen
+ * 
+ */
 public class KeilC51SourceParser extends GNUCSourceParser {
 	public KeilC51SourceParser(IScanner scanner, ParserMode parserMode,
 			IParserLogService logService,

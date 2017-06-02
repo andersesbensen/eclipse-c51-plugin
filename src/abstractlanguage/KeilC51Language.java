@@ -17,7 +17,11 @@ import org.eclipse.cdt.core.parser.ParserLanguage;
 import org.eclipse.cdt.core.parser.ParserMode;
 import org.eclipse.cdt.internal.core.pdom.dom.IPDOMLinkageFactory;
 import org.eclipse.cdt.internal.core.pdom.dom.c.PDOMCLinkageFactory;
-
+/**
+ * This code is provided under GPLv2
+ * @author Anders Lynge Esbensen
+ * 
+ */
 
 
 public class KeilC51Language extends AbstractCLikeLanguage {

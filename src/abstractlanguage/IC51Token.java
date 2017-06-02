@@ -1,6 +1,10 @@
 package abstractlanguage;
 import org.eclipse.cdt.core.parser.IToken;
-
+/**
+ * This code is provided under GPLv2
+ * @author Anders Lynge Esbensen
+ * 
+ */
 
 public interface IC51Token extends IToken {
 	int t_interrupt = FIRST_RESERVED_IExtensionToken;

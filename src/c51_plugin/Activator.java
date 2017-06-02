@@ -2,6 +2,12 @@ package c51_plugin;
 
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.osgi.framework.BundleContext;
+/**
+ * This code is provided under GPLv2
+ * @author Anders Lynge Esbensen
+ * 
+ */
+
 
 /**
  * The activator class controls the plug-in life cycle

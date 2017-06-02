@@ -9,7 +9,11 @@ import org.eclipse.cdt.core.parser.IPreprocessorDirective;
 import org.eclipse.cdt.core.parser.IToken;
 import org.eclipse.cdt.core.parser.Keywords;
 import org.eclipse.cdt.core.parser.util.CharArrayIntMap;
-
+/**
+ * This code is provided under GPLv2
+ * @author Anders Lynge Esbensen
+ * 
+ */
 
 public class KeilC51ScannerExtensionConfig extends AbstractScannerExtensionConfiguration  {
 	private static KeilC51ScannerExtensionConfig sInstance;
