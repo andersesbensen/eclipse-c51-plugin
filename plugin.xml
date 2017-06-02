@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.cdt.core.language">
+      <language
+            class="abstractlanguage.KeilC51Language"
+            id="keil_c51"
+            name="%language.name">
+      </language>
+   </extension>
+
+</plugin>
